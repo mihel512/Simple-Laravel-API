@@ -28,7 +28,7 @@ composer install --ignore-platform-reqs
 ## Generate Application Key
 
 ```bash
-./vendor/bin/sail exec artisan key:generate --ansi
+./vendor/bin/sail artisan key:generate --ansi
 ```
 
 ## Run Database Migrations
